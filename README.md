@@ -4,4 +4,6 @@ Intro:
 
 2. MyDictionary is a interactive dictionary application.
 
-3. testJupy has the saved notebooks from Jupyter worked on Pandas.
+3. testJupy has the saved notebooks from Jupyter worked on Pandas. 
+
+4. mappings has exercises on creating webmaps using python folium.
