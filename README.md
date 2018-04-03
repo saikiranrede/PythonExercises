@@ -6,4 +6,6 @@ Intro:
 
 3. testJupy has the saved notebooks from Jupyter worked on Pandas. 
 
-4. mappings has exercises on creating webmaps using python folium.
+4. mappings has exercises on creating webmaps using python folium. 
+
+5. BlockerApp has a script which runs in a background to block given websites.
