@@ -15,6 +15,8 @@ Intro:
 7. dbConnEx has sqlite3 and Postgres DB exercises. 
 
 8. Widgets has two widgets 
-   a. Metric Converter from KG to grams, pounds, ounces.
+
+   a. Metric Converter from KG to grams, pounds, ounces. 
+
    b. BookStore Application to store books data into DB. 
 
