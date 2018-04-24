@@ -15,6 +15,7 @@ class UserRegister(Resource):
         help = 'password cannot be left blank'
         )
 
+    @jwt_required()
     def post(self):
         data = UserRegister.parser.parse_args()
         if UserModel.find_by_username(data['username']):
